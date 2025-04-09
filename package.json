@@ -2,6 +2,7 @@
     "name": "cafe24-link-opener",
     "displayName": "cafe24-link-opener",
     "description": "Cafe24 Link Opener is a Visual Studio Code extension designed for Cafe24 no-code tool projects. It enables clickable file links within custom HTML comments (such as `<!--@layout(/path/to/file)-->`) so you can quickly open the referenced file. The extension also provides autocompletion for both comment keywords and file paths.",
+    "publisher": "YeongJu Seong",
     "repository": {
         "type": "git",
         "url": "https://github.com/SeongYeongJu/cafe24-link-opener"
